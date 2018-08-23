@@ -6,6 +6,7 @@
  *     Right *TreeNode
  * }
  */
+ 
 func isSameTree(p *TreeNode, q *TreeNode) bool {
     tmp1 := p
     tmp2 := q
